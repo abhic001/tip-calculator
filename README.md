@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/abhic001/tip-calculator/blob/master/demo.gif
+![](https://github.com/abhic001/tip-calculator/blob/master/demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

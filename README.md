@@ -35,6 +35,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+- Setting up XCode and Git for the project.
+- Learning how Storyboard syncs with the code behind the scene.
+
 ## License
 
     Copyright [2017] [Abhijeet Chakrabarti]
